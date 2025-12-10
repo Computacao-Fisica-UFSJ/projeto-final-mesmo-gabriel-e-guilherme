@@ -105,7 +105,7 @@ No gerenciador de bibliotecas, pesquise por `Servo` e `Wire`, instale-as.
 ![teste](./media/video.gif)
 
 ### 📅 25/11 — Organização dos Componentes e Soldagem
-No dia **25/11**, organizamos todos os fios e componentes necessários para a montagem dentro do molde 3D. Também realizamos a soldagem dos pontos de **GND** e **5V**, garantindo a alimentação correta de todos os dispositivos — como a bateria, os servomotores e o Arduino — para que funcionassem de forma adequada durante os testes.
+No dia **25/11**, organizamos todos os fios e componentes necessários para a montagem dentro do molde 3D. Também realizamos a soldagem dos pontos de **GND** e **5V**, garantindo a alimentação correta de todos os dispositivos, como a bateria, os servomotores e o Arduino, para que funcionassem de forma adequada durante os testes.
 
 ---
 
@@ -122,7 +122,6 @@ No dia **03/12**, realizamos a revisão completa do código e executamos o proce
 ### 📅 09/12 — Finalização da Montagem e Ajustes Finais no Código
 No dia **09/12**, concluímos o projeto instalando todos os componentes nos seus devidos lugares e fechando o molde 3D com parafusos. Realizamos ainda um ajuste no código: agora, quando a colher realiza um movimento de **mergulho**, ela permanece em estado estático; ao retornar à posição original, volta a funcionar como colher estabilizadora.
 
----
 
 &nbsp;
 
